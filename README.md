@@ -1,3 +1,3 @@
 # git-practice
 このリポジトリはGit動画講座用です．
-track file
+new-featureブランチで変更
